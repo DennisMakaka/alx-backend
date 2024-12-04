@@ -1,0 +1,21 @@
+{
+  "name": "0x03-queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "## Project Overview The \"0x03. Queuing System in JavaScript\" project focuses on implementing a queuing system using JavaScript. It leverages Redis for data storage and Kue for job queue management. The goal is to understand and work with asynchronous task handling, job processing, and optimization in backend systems using modern JavaScript and Node.js technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/node": "^7.26.0",
+    "@babel/preset-env": "^7.26.0"
+  }
+}
